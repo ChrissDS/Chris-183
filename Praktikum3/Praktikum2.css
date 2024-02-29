@@ -1,0 +1,59 @@
+body{
+    background-image:url("https://static.vecteezy.com/system/resources/previews/007/974/482/large_2x/abstract-white-creased-paper-texture-background-white-crumpled-papers-sheet-free-photo.jpg");
+}
+h1{
+    font-family: serif;
+}
+table{
+    padding:10px;
+    border-radius:10px;
+    text-align :center;
+    /* background-image: url("https://c4.wallpaperflare.com/wallpaper/276/342/362/white-wood-texture-abstract-wallpaper-preview.jpg"); */
+    font-family: serif;
+    /* border-collapse: collapse; */
+    width: 100%;
+    
+}
+th, td {
+    padding: 8px;
+    text-align: left;
+}
+
+th.Hari{
+    background-color:#23395d;
+    color:#eceaea;
+}
+th.Jam{
+    background-color:#23395d;
+    color:#eceaea;
+}
+th.Hari:hover {
+    scale:1.1;
+    transition:0.1s;
+    box-shadow:10px 10px 10px #000000;
+
+}
+
+th.Jam:hover {
+    scale:1.1;
+    transition:0.1s;
+    box-shadow:10px 10px 10px #000000;
+
+}
+td.Matkul:hover {
+    scale:1.1;
+    transition:0.1s;
+    box-shadow:10px 10px 10px #000000;
+    background-color:#7898cc;
+
+}
+h1 {
+    padding:10px;
+    border-radius:10px;
+    border: 2px solid; 
+    width: 300px;
+    margin: 0 auto; 
+    text-align: center; 
+    background-color:#23395d;
+    color:#eceaea;
+}
